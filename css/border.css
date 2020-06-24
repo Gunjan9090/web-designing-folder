@@ -1,0 +1,45 @@
+p.dotted {
+    border-style: dotted;
+    
+}
+p{
+  text-align: center;
+  background-color: tomato;
+ border-color: yellow;
+}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+.bordercolor{
+	border-left: 16px solid red;
+	border-bottom: 20px solid blue;
+   border-top: 20px solid blue;
+   border-right: 20px solid green;
+
+	background-color: pink;
+
+    }
+    .borderradius{
+	height: 50px;
+	width: 600px;
+	border:2px solid blue;
+	border-radius: 50px;
+	padding: 10px;
+	text-align: center;
+   margin: 3px;
+    }
+    .borderimg { 
+    border: 20px solid transparent;
+    padding: 15px;
+    border-image: url(../image/family.jpg) 60 round;
+    width: 400px;
+    height: 400px;
+    
+}

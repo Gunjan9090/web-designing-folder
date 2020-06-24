@@ -1,0 +1,67 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.topbar{
+	height: 50px;
+	
+	/*line-height: 50px;*/
+}
+.space2{
+	width: 1168px;
+	margin:auto;
+	background:#502828;
+	height: 90px;
+}
+
+.getapp{
+	float: right;
+	color: black;
+text-decoration-style: none;
+}
+.email{
+
+	display: inline;
+color: black;
+}
+.first{
+	   height: 20px;
+    	width: auto;
+    	  line-height:50px;
+      }
+
+.middleone{
+	height: 40px;
+	width: auto;
+	margin: 32px;
+
+    padding: 0px;
+}
+ul li{
+    
+    
+
+			display: inline-block;
+			background: white;
+		float: right;
+			width: 100px;
+    height: 37px;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    font-weight: bold;
+		}
+		ul li a{
+			text-decoration: none;
+			color: white;
+		}
+		ul li:hover{
+			background: blue;
+		}
+
+.section{
+display:  inline;
+}
+.section2{
+
+}
